@@ -1,0 +1,40 @@
+Created semaphore_time_slot_users succesfully
+
+******************************
+        Program start         
+******************************
+Created tasks
+GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+[element][row]: [0][0]
+Global time: 0:0:0:0:3
+Total_ms: 3
+Monitor: Got my time slot notification
+ComputeResult: Got my time slot notification
+-- taskComputeResult --
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification[element][row]: [1][0]
+Global time: 0:0:0:0:6
+Total_ms: 6
+Monitor: Got my time slot notification
+WriteToMain: Got my time slot notification
+-- taskWriteToMain --
+
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --GatherInput: Got my time slot notification
+-- taskGatherInput --[element][row]: [2][0]
+Global time: 0:0:0:0:9
+Total_ms: 9

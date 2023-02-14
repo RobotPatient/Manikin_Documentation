@@ -1,0 +1,285 @@
+Created semaphore_time_slot_users succesfully
+Created tasks
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 12 Pa
+DifferentialPressure = 0.00 Temperature = 26.49 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 222 Pa 
+Pressure sensor 2 = 99 Pa
+DifferentialPressure = 31.00 Temperature = 26.35 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 7 Pa 
+Pressure sensor 2 = 252 Pa
+DifferentialPressure = 33.00 Temperature = 26.41 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 102 Pa 
+Pressure sensor 2 = 26 Pa
+DifferentialPressure = 154.00 Temperature = 26.42 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 235 Pa 
+Pressure sensor 2 = 122 Pa
+DifferentialPressure = 546.00 Temperature = 26.46 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 188 Pa 
+Pressure sensor 2 = 27 Pa
+DifferentialPressure = 546.00 Temperature = 26.44 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 23 Pa 
+Pressure sensor 2 = 205 Pa
+DifferentialPressure = 546.00 Temperature = 26.47 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 44 Pa 
+Pressure sensor 2 = 91 Pa
+DifferentialPressure = 546.00 Temperature = 26.47 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 239 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = 474.00 Temperature = 26.47 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 82 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = -30.00 Temperature = 26.48 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 52 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = 0.00 Temperature = 26.45 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 214 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = 0.00 Temperature = 26.47 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 247 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = 0.00 Temperature = 26.49 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 16 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = 0.00 Temperature = 26.44 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 135 Pa 
+Pressure sensor 2 = 153 Pa
+DifferentialPressure = -1.00 Temperature = 26.45 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 160 Pa 
+Pressure sensor 2 = 169 Pa
+DifferentialPressure = 0.00 Temperature = 26.48 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 225 Pa
+DifferentialPressure = 133.00 Temperature = 26.45 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 16 Pa
+DifferentialPressure = 546.00 Temperature = 26.49 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 86 Pa
+DifferentialPressure = 244.00 Temperature = 26.48 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 187 Pa
+DifferentialPressure = -546.00 Temperature = 26.46 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 226 Pa
+DifferentialPressure = -546.00 Temperature = 26.45 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 145 Pa
+DifferentialPressure = -378.00 Temperature = 26.49 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 180 Pa
+DifferentialPressure = -546.00 Temperature = 26.50 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 108 Pa
+DifferentialPressure = -546.00 Temperature = 26.47 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 231 Pa
+DifferentialPressure = -546.00 Temperature = 26.49 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 75 Pa
+DifferentialPressure = -546.00 Temperature = 26.47 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 77 Pa
+DifferentialPressure = -546.00 Temperature = 26.47 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 255 Pa 
+Pressure sensor 2 = 166 Pa
+DifferentialPressure = -546.00 Temperature = 26.47 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 173 Pa 
+Pressure sensor 2 = 85 Pa
+DifferentialPressure = -546.00 Temperature = 26.46 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 208 Pa 
+Pressure sensor 2 = 38 Pa
+DifferentialPressure = -546.00 Temperature = 26.49 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 52 Pa 
+Pressure sensor 2 = 158 Pa
+DifferentialPressure = -546.00 Temperature = 26.45 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 23 Pa 
+Pressure sensor 2 = 20 Pa
+DifferentialPressure = -546.00 Temperature = 26.45 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 223 Pa 
+Pressure sensor 2 = 209 Pa
+DifferentialPressure = -546.00 Temperature = 26.47 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 221 Pa 
+Pressure sensor 2 = 50 Pa
+DifferentialPressure = -540.00 Temperature = 26.49 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 16 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = -546.00 Temperature = 26.47 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 201 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = -546.00 Temperature = 26.47 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 33 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = -541.00 Temperature = 26.47 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 114 Pa 
+Pressure sensor 2 = 13 Pa
+DifferentialPressure = -544.00 Temperature = 26.43 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 128 Pa 
+Pressure sensor 2 = 214 Pa
+DifferentialPressure = -185.00 Temperature = 26.45 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 179 Pa 
+Pressure sensor 2 = 133 Pa
+DifferentialPressure = -20.00 Temperature = 26.50 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 7 Pa 
+Pressure sensor 2 = 127 Pa
+DifferentialPressure = -24.00 Temperature = 26.50 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 141 Pa 
+Pressure sensor 2 = 76 Pa
+DifferentialPressure = 164.00 Temperature = 26.52 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 205 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = 264.00 Temperature = 26.50 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 156 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = 226.00 Temperature = 26.50 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 193 Pa 
+Pressure sensor 2 = 164 Pa
+DifferentialPressure = 76.00 Temperature = 26.48 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 102 Pa 
+Pressure sensor 2 = 8 Pa
+DifferentialPressure = 55.00 Temperature = 26.50 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 205 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = -19.00 Temperature = 26.49 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 49 Pa 
+Pressure sensor 2 = 132 Pa
+DifferentialPressure = -30.00 Temperature = 26.50 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 46 Pa 
+Pressure sensor 2 = 102 Pa
+DifferentialPressure = 85.00 Temperature = 26.53 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 67 Pa 
+Pressure sensor 2 = 236 Pa
+DifferentialPressure = 297.00 Temperature = 26.50 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 90 Pa 
+Pressure sensor 2 = 71 Pa
+DifferentialPressure = -9.00 Temperature = 26.46 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 200 Pa 
+Pressure sensor 2 = 221 Pa
+DifferentialPressure = -218.00 Temperature = 26.50 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 244 Pa 
+Pressure sensor 2 = 255 Pa
+DifferentialPressure = -208.00 Temperature = 26.45 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 124 Pa 
+Pressure sensor 2 = 221 Pa
+DifferentialPressure = -118.00 Temperature = 26.50 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 222 Pa 
+Pressure sensor 2 = 106 Pa
+DifferentialPressure = -207.00 Temperature = 26.50 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 0 Pa 
+Pressure sensor 2 = 163 Pa
+DifferentialPressure = -235.00 Temperature = 26.48 
+ 
+-- taskGatherInput --
+Pressure sensor 1 = 254 Pa 
+Pressure sensor 2 = 49 Pa

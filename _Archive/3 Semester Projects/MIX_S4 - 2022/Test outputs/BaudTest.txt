@@ -1,0 +1,30 @@
+Created semaphore_time_slot_users succesfully
+Created tasks
+GatherInput: Obtained time slot semaphore, executing task job
+GatherInput: 0ms
+GatherInput: Obtained time slot semaphore, executing task job
+GatherInput: 0ms
+GatherInput: Obtained time slot semaphore, executing task job
+GatherInput: 0ms
+GatherInput: Obtained time slot semaphore, executing task job
+GatherInput: 1ms
+GatherInput: Obtained time slot semaphore, executing task job
+GatherInput: Monitor: Obtained time slot semaphore, executing task job
+Monitor: 0ms
+ComputeResult: Obtained time slot semaphore, executing task job
+ComputeResult: 0ms
+0ms
+GatherInput: Obtained time slot semaphore, executing task job
+GatherInput: 0ms
+GatherInput: Obtained time slot semaphore, executing task job
+GatherInput: 0msMonitor: Obtained time slot semaphore, executing task job
+Monitor: 0ms
+WriteToMain: Obtained time slot semaphore, executing task job
+WriteToMain: 0ms
+
+GatherInput: Obtained time slot semaphore, executing task job
+GatherInput: 0ms
+GatherInput: Obtained time slot semaphore, executing task job
+GatherInput: 1ms
+GatherInput: Obtained time slot semaphore, executing task job
+GatherInput: 0ms
